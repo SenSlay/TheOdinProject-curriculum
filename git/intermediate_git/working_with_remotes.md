@@ -32,6 +32,8 @@ Huh, that's interesting. We can’t find our fourth file on our local system. Le
 
 Oh no, we just destroyed it!  In this scenario, the danger - you could potentially destroy the work of those you're collaborating with! `git push --force` is a **very dangerous command, and it should be used with caution when collaborating with others**. Instead, you can fix your outdated history error by updating your local history using `fetch`, `merge`, and then attempting to `push` again.
 
+Random sentence for purpose practicing git.
+
 Let's consider a different scenario:
 
 ```bash
